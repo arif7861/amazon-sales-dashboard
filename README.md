@@ -19,7 +19,9 @@ This repository contains my first sales dashboard built using **Power BI Desktop
 └─ README.md
 ```
 ## Dashboard Image
-![Dashboard Preview](Screenshot 2025-08-13 163854.png)
+![Screenshot 2025-08-13 163854.png](https://github.com/arif7861/amazon-sales-dashboard/blob/main/Screenshot%202025-08-13%20163854.png)
+
+
 ## Notes
 - PBIX is a binary file, so diffs won't show meaningful code changes.
 - If your PBIX grows over **100 MB**, consider Git Large File Storage (LFS).
