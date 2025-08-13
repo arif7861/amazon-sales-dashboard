@@ -18,7 +18,8 @@ This repository contains my first sales dashboard built using **Power BI Desktop
 ├─ Amazone Sales Dashboard.pbix
 └─ README.md
 ```
-
+## Dashboard Image
+![Dashboard Preview](C:\Users\arifa\Pictures\Screenshots)
 ## Notes
 - PBIX is a binary file, so diffs won't show meaningful code changes.
 - If your PBIX grows over **100 MB**, consider Git Large File Storage (LFS).
