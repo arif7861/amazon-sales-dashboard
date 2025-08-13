@@ -19,7 +19,7 @@ This repository contains my first sales dashboard built using **Power BI Desktop
 └─ README.md
 ```
 ## Dashboard Image
-![Dashboard Preview](C:\Users\arifa\Pictures\Screenshots)
+![Dashboard Preview](Screenshot 2025-08-13 163854.png)
 ## Notes
 - PBIX is a binary file, so diffs won't show meaningful code changes.
 - If your PBIX grows over **100 MB**, consider Git Large File Storage (LFS).
